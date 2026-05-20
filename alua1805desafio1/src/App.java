@@ -22,7 +22,7 @@ public class App {
 
 
         produto1.acicioanarEstoque(25);
-        System.out.println("QNT estoque P1 :"+ );
+        
 
 
     }
